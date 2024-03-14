@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "ChillRoundF";
+  src: url("font/ChillRoundF.ttf") format("truetype");
+}
+
+body {
+  font-family: ChillRoundF;
+}
+
+p {
+  text-align: justify;
+}
+
