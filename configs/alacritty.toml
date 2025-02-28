@@ -1,0 +1,15 @@
+[window]
+dimensions = {columns = 96, lines = 32}
+
+[terminal]
+shell = "cmd"
+
+[mouse]
+hide_when_typing = true
+bindings = [
+  {mouse = "Right", action = "paste"},
+]
+
+[font]
+size = 12.5
+normal = {family = "ComicShannsMono Nerd Font"}
